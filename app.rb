@@ -7,4 +7,7 @@ get '/' do
 end 
 
 post '/' do 
+  erb :create_puppy
 end
+
+end 
