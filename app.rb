@@ -10,4 +10,6 @@ post '/' do
   erb :create_puppy
 end
 
+get 
+
 end 
